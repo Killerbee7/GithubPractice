@@ -1,2 +1,2 @@
 # GithubPractice
-Github Practice Repo- Dibya_BCH
+Github Practice Repo
