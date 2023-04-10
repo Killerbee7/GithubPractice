@@ -1,3 +1,3 @@
 # GithubPractice
 ¨
-Fibonachhi sequence generator--Js
+Fibonachhi sequence generator
