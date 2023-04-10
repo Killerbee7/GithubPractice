@@ -1,2 +1,2 @@
 # GithubPractice
-Github Practice Repo
+Github Practice Repository
